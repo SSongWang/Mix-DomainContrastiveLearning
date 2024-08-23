@@ -53,7 +53,7 @@ python evaluate.py
 <br>
 
 ## Acknowledgement
-If you use this code or our MIST dataset for your research, please cite our [paper](https://arxiv.org/abs/2406.11799).
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/2406.11799).
 ```bash
 @article{wang2024mix,
   title={Mix-Domain Contrastive Learning for Unpaired H\&E-to-IHC Stain Translation},
