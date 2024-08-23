@@ -1,4 +1,4 @@
-name: ASP
+name: MDCL
 channels:
 - pytorch
 - conda-forge
